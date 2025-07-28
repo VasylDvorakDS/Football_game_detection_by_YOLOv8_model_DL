@@ -37,3 +37,6 @@ The processing time per image is quite fast (~27 ms), allowing the model to be u
 To improve ball detection quality, it is recommended to increase the amount of training data for this class and consider further training using a more balanced dataset.
 
 The best optimizer turned out to be SGD with an average mAP50-95 metric across all classes of 0.3576.
+
+<img width="1246" height="829" alt="изображение" src="https://github.com/user-attachments/assets/63dea645-ff9c-41db-8242-9bce91214896" />
+
